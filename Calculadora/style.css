@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.principal{
+    width: 15%;
+    align-items: center;
+    height: 300px;
+}
+.btn{
+    background-color:rgb(113, 208, 17) !important;
+    color: white !important;
+}
+.btn:hover{
+    background-color: rgb(11, 183, 11) !important;
+    color: white !important;
+}
